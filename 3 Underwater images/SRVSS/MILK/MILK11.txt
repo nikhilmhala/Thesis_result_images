@@ -1,0 +1,2 @@
+                          Name        SSIM        PSNR  
+                       b20.jpg      0.6718     32.2092
